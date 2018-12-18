@@ -5,40 +5,40 @@ Instructions: Fill out a section below for each member of your group. These eval
  * use http://www.markdowntopdf.com.
  * install pandoc (see https://pandoc.org/installing.html) and type ```pandoc eval-individual.md -o evals.pdf```
  
-#### Your name
+#### Yipeng Hua
 
-#### Your group number
+#### Group 19
 
 ## Member 1
 
-#### Name of team member being evaluated 
+#### Matt Brotman 
 
-### Amount of time committed (percentage, e.g. "they did 20% of the total")
+### He did 25% of the total
 
-### Ideas contributed to overall project structure
+### The front end
 
-### Effort contributed to design document
+### Effort contributed to design document 
 
-### Contributions to coding
+### Contributions to coding 
 
-### Was this person a good team player?
+### Was this person a good team player? Yes
 
 ### Any other comments you want to add
 
 
 ## Member 2
 
-#### Name of team member being evaluated 
+#### Daniel Stambler 
 
-### Amount of time committed (percentage, e.g. "they did 20% of the total")
+### He did 25% of the total
 
-### Ideas contributed to overall project structure
+### Ideas contributed to overall project structure: the notes and topics blueprint
 
 ### Effort contributed to design document
 
 ### Contributions to coding
 
-### Was this person a good team player?
+### Was this person a good team player? Yes
 
 ### Any other comments you want to add
 
@@ -46,16 +46,16 @@ Instructions: Fill out a section below for each member of your group. These eval
 
 ## Member 3
 
-#### Name of team member being evaluated 
+#### Hanyuan Xu
 
-### Amount of time committed (percentage, e.g. "they did 20% of the total")
+### He did 30% of the total
 
-### Ideas contributed to overall project structure
+### Ideas contributed to overall project structure: the users blueprint and tests
 
 ### Effort contributed to design document
 
 ### Contributions to coding
 
-### Was this person a good team player?
+### Was this person a good team player? Yes
 
 ### Any other comments you want to add
