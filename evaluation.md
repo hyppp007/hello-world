@@ -67,12 +67,12 @@ Instructions: Fill out a section below for each member of your group. These eval
 
 ### He did 20% of the total
 
-### Ideas contributed to overall project structure: the image blueprint and tests
+### Ideas contributed to overall project structure: the image blueprint, extract keywords and tests
 
-### Effort contributed to design document the image blueprint and tests
+### Effort contributed to design document the image blueprint, extract keywords and tests
 
-### Contributions to coding the image blueprint and tests
+### Contributions to coding the image blueprint, extract keywords and tests
 
-### Was this person a good team player? Yes 
+### Was this person a good team player?  
 
 ### Any other comments you want to add
