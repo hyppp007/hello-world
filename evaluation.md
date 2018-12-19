@@ -50,11 +50,11 @@ Instructions: Fill out a section below for each member of your group. These eval
 
 ### He did 30% of the total
 
-### Ideas contributed to overall project structure: the users blueprint and tests
+### Ideas contributed to overall project structure: the users blueprint and tests and database
 
-### Effort contributed to design document the users blueprint and tests
+### Effort contributed to design document the users blueprint and tests and database
 
-### Contributions to coding the users blueprint and tests
+### Contributions to coding the users blueprint and tests and database
 
 ### Was this person a good team player? Yes 
 
