@@ -17,13 +17,13 @@ Instructions: Fill out a section below for each member of your group. These eval
 
 ### The front end
 
-### Effort contributed to design document 
+### Effort contributed to design document The Front End
 
-### Contributions to coding 
+### Contributions to coding The front End
 
 ### Was this person a good team player? Yes
 
-### Any other comments you want to add
+### Any other comments you want to add 
 
 
 ## Member 2
@@ -34,9 +34,9 @@ Instructions: Fill out a section below for each member of your group. These eval
 
 ### Ideas contributed to overall project structure: the notes and topics blueprint
 
-### Effort contributed to design document
+### Effort contributed to design document the notes and topics blueprint
 
-### Contributions to coding
+### Contributions to coding the notes and topics blueprint
 
 ### Was this person a good team player? Yes
 
@@ -52,10 +52,27 @@ Instructions: Fill out a section below for each member of your group. These eval
 
 ### Ideas contributed to overall project structure: the users blueprint and tests
 
-### Effort contributed to design document
+### Effort contributed to design document the users blueprint and tests
 
-### Contributions to coding
+### Contributions to coding the users blueprint and tests
 
-### Was this person a good team player? Yes
+### Was this person a good team player? Yes 
+
+### Any other comments you want to add
+
+
+## Member 4
+
+#### Yipeng Hua
+
+### He did 20% of the total
+
+### Ideas contributed to overall project structure: the image blueprint and tests
+
+### Effort contributed to design document the image blueprint and tests
+
+### Contributions to coding the image blueprint and tests
+
+### Was this person a good team player? Yes 
 
 ### Any other comments you want to add
